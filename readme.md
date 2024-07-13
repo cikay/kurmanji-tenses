@@ -7,14 +7,20 @@
 
 ###  Kesê Yekemîn
 
-#### Erênî
+#### Hekjimar
 
-Ez dibînim ko tu direcifî, gelo te sar e; em agir dadin.
-Ez Şerlok Holmes im; ev jî hevalê min ê ezîz Wetsin e.
+##### Erênî
+Ez dibînim ko tu direcifî
+Ez Şerlok Holmes im
 
-#### Neyînî
-
+##### Neyînî
 Ne ji ber sermayê ez direcifim
+
+#### Pirjimar
+
+##### Erênî
+
+##### Neyînî
 
 ###  Kesê Duyemîn
 
