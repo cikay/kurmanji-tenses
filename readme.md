@@ -86,3 +86,13 @@ Di nav xalkê de weke vegotinekê tê gotin ku "Şahmaran deh hezar sal jîn bû
 #### Neyînî
 </details>
 </details>
+
+<details>
+    <summary><b>Raveya Fermanî</b></summary>
+
+#### Erênî
+
+#### Neyînî
+Bi ketina dijminê xwe kêfxweş nebe û bi terpilîna wî dilgeş nebe.
+
+</details>
