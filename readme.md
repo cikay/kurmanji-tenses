@@ -20,6 +20,8 @@ Ne ji ber sermayê ez direcifim
 
 ##### Erênî
 
+Em pê dizanin
+
 ##### Neyînî
 
 ###  Kesê Duyemîn
