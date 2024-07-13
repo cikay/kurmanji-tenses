@@ -1,8 +1,9 @@
 
 <details>
-  <summary>Dema Fireh</summary>
+  <summary><b>Dema Fireh</b></summary>
 
-## Avanîya Lebatî
+<details>
+    <summary><b>Avanîya Lebatî</b></summary>
 
 ###  Kesê Yekemîn
 
@@ -27,8 +28,10 @@ Ne ji ber sermayê ez direcifim
 #### Erênî
 
 #### Neyînî
+</details>
 
-## Avanîya Tebatî
+<details>
+    <summary><b>Avanîya Tebatî</b></summary>
 
 ###  Kesê Yekemîn
 
@@ -58,8 +61,11 @@ Di nav xalkê de weke vegotinekê tê gotin ku "Şahmaran deh hezar sal jîn bû
 
 
 #### Neyînî
+</details>
 
-## Avanîya Dançêker
+<details>
+    <summary><b>Avanîya Dançêker</b></summary>
+
 
 ###  Kesê Yekemîn
 
@@ -78,3 +84,5 @@ Di nav xalkê de weke vegotinekê tê gotin ku "Şahmaran deh hezar sal jîn bû
 #### Erênî
 
 #### Neyînî
+</details>
+</details>
