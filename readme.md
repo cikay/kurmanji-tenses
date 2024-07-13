@@ -6,7 +6,7 @@
 
 ### Avanîya Lebatî
 
-#### Erênî
+#### Erênî
 
 Ez dibînim ko tu direcifî, gelo te sar e; em agir dadin.
 Ez Şerlok Holmes im; ev jî hevalê min ê ezîz Wetsin e.
@@ -18,7 +18,7 @@ Ne ji ber sermayê ez direcifim
 
 ### Avanîya Tebatî
 
-#### Erênî
+#### Erênî
 
 Jê re heta îro jî, di nav kurdan de Zend-avesta jî tê gotin.
 Hin caran ev peyv ji bo mirovên mirî jî tê gotin.
@@ -32,7 +32,7 @@ Di nav xalkê de weke vegotinekê tê gotin ku "Şahmaran deh hezar sal jîn bû
 
 ### Avanîya Dançêker
 
-#### Erênî
+#### Erênî
 
 #### Neyînî
 
@@ -41,19 +41,19 @@ Di nav xalkê de weke vegotinekê tê gotin ku "Şahmaran deh hezar sal jîn bû
 
 ### Avanîya Lebatî
 
-#### Erênî
+#### Erênî
 
 #### Neyînî
 
 ### Avanîya Tebatî
 
-#### Erênî
+#### Erênî
 
 #### Neyînî
 
 ### Avanîya Dançêker
 
-#### Erênî
+#### Erênî
 
 #### Neyînî
 
@@ -61,19 +61,19 @@ Di nav xalkê de weke vegotinekê tê gotin ku "Şahmaran deh hezar sal jîn bû
 
 ### Avanîya Lebatî
 
-#### Erênî
+#### Erênî
 
 #### Neyînî
 
 ### Avanîya Tebatî
 
-#### Erênî
+#### Erênî
 
 #### Neyînî
 
 ### Avanîya Dançêker
 
-#### Erênî
+#### Erênî
 
 #### Neyînî
 
