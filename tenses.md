@@ -1,13 +1,17 @@
 
-## Dema Niha
+## Dema Fireh
 
 ### Kesê Yekemîn
 
 #### Avanîya Lebatî
 
 ##### Erênî
+Ez dibînim ko tu direcifî, gelo te sar e; em agir dadin.
+Ez Şerlok Holmes im; ev jî hevalê min ê ezîz Wetsin e.
+
 
 ##### Neyînî
+Ne ji ber sermayê ez direcifim
 
 ### Avanîya Tebatî
 
